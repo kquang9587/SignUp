@@ -6,6 +6,7 @@
   "UTCTimeEnd": "1739458800",
   "ExcludeDomain": [
     "landing.uatasia.com",
+    "localhost",
     "landing.easymon5678.com"
   ]
 }
